@@ -1,3 +1,5 @@
+![GREENIX official banner](assets/greenix-banner.svg)
+
 # GREENIX
 
 **Official Windows downloads, installation instructions, and release updates.**
